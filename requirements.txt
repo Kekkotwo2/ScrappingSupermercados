@@ -1,0 +1,6 @@
+Scrapy
+playwright
+scrapy-playwright
+openpyxl
+
+#no recuerdo que otra tenia
