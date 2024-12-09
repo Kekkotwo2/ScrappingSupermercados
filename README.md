@@ -1,2 +1,3 @@
 # ScrappingSupermercados
-Scrapping de supermercados chilenos, aun no lo termino
+Scrapping de supermercados chilenos utilizando scrapy-playwrigth
+aun no lo termino
